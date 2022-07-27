@@ -1,0 +1,15 @@
+C:\Users\danie\source\repos\QuanLyTruyenTranh\BUL\bin\Debug\netcoreapp3.1\BUL.deps.json
+C:\Users\danie\source\repos\QuanLyTruyenTranh\BUL\bin\Debug\netcoreapp3.1\BUL.dll
+C:\Users\danie\source\repos\QuanLyTruyenTranh\BUL\bin\Debug\netcoreapp3.1\BUL.pdb
+C:\Users\danie\source\repos\QuanLyTruyenTranh\BUL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\danie\source\repos\QuanLyTruyenTranh\BUL\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\danie\source\repos\QuanLyTruyenTranh\BUL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\danie\source\repos\QuanLyTruyenTranh\BUL\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\danie\source\repos\QuanLyTruyenTranh\BUL\obj\Debug\netcoreapp3.1\BUL.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\QuanLyTruyenTranh\BUL\obj\Debug\netcoreapp3.1\BUL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\QuanLyTruyenTranh\BUL\obj\Debug\netcoreapp3.1\BUL.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\QuanLyTruyenTranh\BUL\obj\Debug\netcoreapp3.1\BUL.AssemblyInfo.cs
+C:\Users\danie\source\repos\QuanLyTruyenTranh\BUL\obj\Debug\netcoreapp3.1\BUL.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\QuanLyTruyenTranh\BUL\obj\Debug\netcoreapp3.1\BUL.csproj.CopyComplete
+C:\Users\danie\source\repos\QuanLyTruyenTranh\BUL\obj\Debug\netcoreapp3.1\BUL.dll
+C:\Users\danie\source\repos\QuanLyTruyenTranh\BUL\obj\Debug\netcoreapp3.1\BUL.pdb

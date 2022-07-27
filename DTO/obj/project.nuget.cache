@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gd8SyeLlLCPRpdaRWYOrmhZ0q+IAW3v/OkmssayAsj9ifugoqPNQcqqIOQ0cltOfVqCPL4XYqfk6/6Vx9KmE2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danie\\source\\repos\\QuanLyTruyenTranh\\DTO\\DTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
